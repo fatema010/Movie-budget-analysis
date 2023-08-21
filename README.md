@@ -1,4 +1,4 @@
- ###Movie-budget-analysis
+#Movie-budget-analysis
 
 Overview
 This repository contains the code and analysis for the Movie Budget Analysis project. The project focuses on analyzing movie budgets and their relationships with various factors. 
