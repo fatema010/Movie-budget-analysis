@@ -17,6 +17,6 @@ Visualization of budget distributions, trends over the years, and genre-based in
 Statistical analysis to explore relationships between budget and other variables.
 
 
-Results
+###Results
 The analysis reveals fascinating insights into the relationship between movie budgets, genres, and release years. Visualizations highlight budget distributions, trends, and genre-based budget variations. The findings are detailed in the notebook and can be further explored by interested users.
 
